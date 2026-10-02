@@ -1,0 +1,1 @@
+</main><footer><span>© <?=date('Y')?> AutoDyno Manufacturing System</span><span>Inventory • Production • Delivery</span></footer></div></body></html>
